@@ -70,18 +70,18 @@ is a computer game developed by Rockstar North. It is an open world action-adven
         `
     }
     if(Langg === 2){
-        Top.innerHTML =`Игры`
+        Top.innerHTML =`Наши гайды`
         list.innerHTML = `  
-        <h2 id="Top"> 1) Red Dead Redemption 2 </h2>
+        <h2 id="Top"> <a href="RDR2.html" >1) Red Dead Redemption 2 </a></h2>
         <br><br><p id="Main" class="Text">
         Является популярной компьютерной игрой, разработанной компанией Rockstar Games. Она является приквелом к оригинальной игре "Red Dead Redemption" и представляет собой открытый мир в жанре экшн-приключений, действие которого происходит в конце 19-го века на Диком Западе. Игроки могут исследовать огромный мир, участвовать в охоте, рыбалке, заданиях и сражениях, а также взаимодействовать с различными персонажами. РДР2 получила высокую оценку критиков и стала одной из самых успешных игр в истории, благодаря своей глубокой сюжетной линии и потрясающему детализированному миру.
         </p>
-        <h2 id="Top">2)GTAV</h2>
+        <h2 id="Top"><a href="GTAV.html" >2)GTAV </a></h2>
         <p id="Main" class="Text">
         Это популярная компьютерная игра, разработанная компанией Rockstar North. Она является открытым миром в жанре экшн-приключений, действие которого происходит в вымышленном городе Лос-Сантос, основанном на Лос-Анджелесе. Игроки могут свободно перемещаться по городу, выполнять различные задания, участвовать в ограблениях и сражениях, а также взаимодействовать с другими персонажами. ГТА5 получила широкое признание благодаря своей глубокой истории, реалистичному геймплею и разнообразным возможностям, которые она предоставляет игрокам.
         </p>
         <br><br>
-        <h2 id="Top">3)GTAIV</h2>
+        <h2 id="Top"><a href="GTAIV.html" >3)GTAIV </a></h2>
         <p id="Main" class="Text">
         
         это компьютерная игра, разработанная компанией Rockstar North. Она представляет собой открытый мир в жанре экшн-приключений, действие которого происходит в вымышленном городе Либерти-Сити, инспирированном Нью-Йорком. Игроки воплощаются в главном герое Нико Беллике и исследуют город, выполняют миссии, участвуют в ограблениях, сражениях и взаимодействуют с различными персонажами. ГТА4 была высоко оценена за свою детализацию мира, характеры персонажей и захватывающий сюжет.
@@ -94,23 +94,23 @@ is a computer game developed by Rockstar North. It is an open world action-adven
     }
     if(Langg === 3){
         Top.innerHTML =`
-        
+        Mūsu ceļveži
         `
 
 
 
         list.innerHTML = `
 
-        <h2 id="Top"> 1) Red Dead Redemption 2 </h2>
+        <h2 id="Top"> <a href="RDR2.html" > 1) Red Dead Redemption 2 </a> </h2>
          <p id="Main" class="Text">
          Tā ir populāra datorspēle, ko izstrādājusi Rockstar Games. Tas ir priekšvēstnesis oriģinālajam Red Dead Redemption un ir asa sižeta piedzīvojumu atvērtā pasaule, kas norisinās 19. gadsimta beigās Mežonīgajos Rietumos. Spēlētāji var izpētīt plašo pasauli, piedalīties medībās, makšķerēšanā, meklējumos un cīņās, kā arī mijiedarboties ar dažādiem varoņiem. RDR2 ir guvis kritiķu atzinību un ir kļuvusi par vienu no veiksmīgākajām spēlēm vēsturē, pateicoties tās dziļajam sižetam un satriecoši detalizētajai pasaulei.
          </p>
-         <h2 id="Top">2)GTAV</h2>
+         <h2 id="Top"> <a href="GTAV.html" >2)GTAV</a></h2>
          <p id="Main" class="Text">
          Tā ir populāra datorspēle, ko izstrādājusi Rockstar North. Tā ir atvērtas pasaules asa sižeta piedzīvojumu spēle, kas norisinās izdomātajā Losandželosas pilsētā Los Santosā. Spēlētāji var brīvi pārvietoties pa pilsētu, veikt dažādus uzdevumus, piedalīties laupīšanā un cīņās, kā arī mijiedarboties ar citiem varoņiem. GTA 5 ir plaši pazīstams ar savu dziļo stāstu, reālistisku spēli un spēlētājiem piedāvāto iespēju daudzveidību.
          </p>
          <br>
-         <h2 id="Top">3)GTAIV</h2>
+         <h2 id="Top"> <a href="GTAIV.html" >3)GTAIV </a></h2>
          <p id="Main" class="Text">
         
          ir Rockstar North izstrādāta datorspēle. Tā ir atvērtas pasaules asa sižeta piedzīvojumu spēle, kas norisinās izdomātajā Ņujorkas iedvesmotajā pilsētā Liberty City. Spēlētāji iejūtas galvenā varoņa Niko Bellika lomā un pēta pilsētu, izpilda misijas, piedalās laupīšanā, cīņās un mijiedarbojas ar dažādiem varoņiem. GTA 4 tika ļoti slavēts par tā detalizēto pasauli, varoņu personībām un aizraujošo sižetu.
